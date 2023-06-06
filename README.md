@@ -1,4 +1,5 @@
-# Airline Passenger EDA- 
+ ![airlinelogo](https://github.com/sou7500/Airline-Passenger-Analysis/assets/109259266/09af1cde-3541-48c8-94f4-6bfff6d350e4)
+
 ## Descriptive Analysis to find trends and patterns in bookings.
 ### EDA conducted, data visualized using Seaborn and matplotlib, findings of every iteration is shared below chart.
 ### Learning Outcomes- Seaborn charts, dealing with missing values, pandas Dataframe, Data validation.
